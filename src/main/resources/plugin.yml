@@ -1,0 +1,8 @@
+name: strongerwoodsplugin
+version: 1.16.5
+main: app.cleancode.StrongWoodsEntryPoint
+commands:
+    strengthen:
+        description: "strengthens the player"
+        usage: /<command>
+        permission: blah.blah
